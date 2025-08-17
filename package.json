@@ -1,0 +1,29 @@
+{
+  "name": "auto-daily-bridge-eth-sepolia-to-Fhenix-Testnet",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Automated swap bot in dex GTE, on network megaETH.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Fhenix-Helium",
+    "airdrop",
+    "bot",
+    "swap",
+    "web3",
+    "bridge",
+    "crypto",
+    "blockchain",
+    "automation"
+  ],
+  "author": "Kurisaitou",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.2.0",
+    "dotenv": "^17.2.1",
+    "ethers": "^6.15.0"
+  }
+}
